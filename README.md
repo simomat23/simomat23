@@ -10,6 +10,7 @@ Currently, I am a first year university student. My degree is Software engineeri
 
 - <b>Simple Pokemon Game (Assigment)</b>
   - [Pokemon_Game](https://github.com/simomat23/PokemonGameAssignment)
+  - [Company_Program](https://github.com/simomat23/Company_Assignment)
 
 <h2> Further Pages:</h2>
 
