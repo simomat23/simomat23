@@ -28,7 +28,7 @@ Currently, I am a first year university student. My degree is Software engineeri
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/simona-matera-986924160/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
