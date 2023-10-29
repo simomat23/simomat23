@@ -1,6 +1,6 @@
-<h1>Hi, I'm Simona Matera! <br/><a /a></h1>
+<h1>Hi, I'm Simona Matera! </h1>
   
-Currently, I am a first year university student. My degree is Software engineering and Managment at the University of Gothenburg.
+<h3>Software Engineering & Management Student │ Aspiring Cybersecurity Engineer</h3>
 
 <h2>Programming Languages I know: </h2> 
 
