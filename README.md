@@ -2,15 +2,26 @@
   
 Currently, I am a first year university student. My degree is Software engineering and Managment at the University of Gothenburg.
 
-<h2>Certifications: </h2> 
+<h2>Programming Languages I know: </h2> 
 
-- <b>
+- <b>Java</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Simple Pokemon Game (Assigment)</b>
   - [Pokemon_Game](https://github.com/simomat23/PokemonGameAssignment)
+- <b>Simple Company Program (Assignment)</b>
   - [Company_Program](https://github.com/simomat23/Company_Assignment)
+
+<h2>Languages I speak:</h2>
+
+- <b>Italian (fluent)</b>
+
+- <b>German (fluent)</b>
+
+- <b>English (fluent)</b>
+
+- <b>French (Conversational)</b>
 
 <h2> Further Pages:</h2>
 
