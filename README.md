@@ -8,8 +8,8 @@ Currently, I am a first year university student. My degree is Software engineeri
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Simple Pokemon Game (Assigment)</b>
+  - [Pokemon_Game]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/simomat23/PokemonGameAssignment))
 
 <h2> Further Pages:</h2>
 
