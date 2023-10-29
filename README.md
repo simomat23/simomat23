@@ -6,7 +6,7 @@ Currently, I am a first year university student. My degree is Software engineeri
 
 - <b>Java</b>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Simple Pokemon Game (Assigment)</b>
   - [Pokemon_Game](https://github.com/simomat23/PokemonGameAssignment)
