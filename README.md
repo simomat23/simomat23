@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Simona Matera! <br/><a /a></h1>
+  
+Currently, I am a first year university student. My degree is Software engineering and Managment at the University of Gothenburg.
+
+<h2>Certifications: </h2> 
+
+- <b>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Further Pages:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**simomat23/simomat23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
