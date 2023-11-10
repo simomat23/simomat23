@@ -2,9 +2,11 @@
   
 <h3>Software Engineering & Management Student │ Aspiring Cybersecurity Engineer</h3>
 
-<h2>Programming Languages I know: </h2> 
+<h2>What I know: </h2> 
 
 - <b>Java</b>
+- <b>JavaFX</b>
+- <b>CSS Styling</b>
 
 <h2>Projects:</h2>
 
