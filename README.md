@@ -29,6 +29,8 @@
 
 - <b>My LinkedIn</b>
   - [Simona Matera](https://www.linkedin.com/in/simona-matera-986924160/)
+- <b>My CV</b>
+  - [Simona Matera CV](file:///C:/Users/simom/OneDrive/Desktop/Simona%20Matera%20(1).pdf)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
